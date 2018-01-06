@@ -1,0 +1,3 @@
+This repo contains the code I wrote for the course of Type Systems and Programming Languages (CS-546).
+
+The files named homework*.ml (where * = 1,2,3) contains code written by me, while the other .ml and .mli files was provided by the Instructor and are only included so the code can be actually compiled and tested.
